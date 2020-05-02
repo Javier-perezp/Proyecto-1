@@ -1,0 +1,8 @@
+Grande	2	300	600	540
+Familiar	4	120.22	480.88	408.748
+Fiesta	3	111.11	333.33	266.664
+Familiar	2	32	64	54.4
+Grande	4	400	1600	1440
+Grande	5	80	400	360
+Grande	5	80	400	360
+Grande	0	0	0	0
